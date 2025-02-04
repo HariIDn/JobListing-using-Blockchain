@@ -1,0 +1,16 @@
+{
+  "name": "final-project",
+  "version": "1.0.0",
+  "description": "Final Project Blockchain",
+  "main": "index.js",
+  "scripts": {    
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Hari",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "truffle-contract": "^4.0.31"
+  }
+}
